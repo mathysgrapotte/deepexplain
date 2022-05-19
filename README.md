@@ -21,4 +21,4 @@ This readme is intended to help navigate the tutorial that is organized in a mod
 
 + Another simple method is [finding similar inputs](./06_similar_inputs.ipynb). If the network makes a mistake on a test input, we can see which training inputs are similar from network's point of view. The results can show us what features the network does not use in classification.  
 
-+ Then, we will dig deeper into more sophisticated methods for explaining deep learning models, [shapley values](./04_shapley_values.ipynb) and [CAM](05_scoreCAM.ipynb).
++ Then, we will dig deeper into more sophisticated methods for explaining deep learning models, [shapley values](./04_shapley_values.ipynb) and [CAM-based Methods](05_CAM_based_Methods.ipynb).
